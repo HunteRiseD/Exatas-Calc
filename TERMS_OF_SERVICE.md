@@ -24,7 +24,7 @@
 
 6. Alterações nos Termos:
 
-	• Reservamo-nos o direito de modificar estes Termos a qualquer momento. Avisos sobre mudanças serão publicados no [[Canal de Atualizações do Bot.](https://github.com/HunteRiseD/ExatasCalc/blob/main/Updates.md)).
+	• Reservamo-nos o direito de modificar estes Termos a qualquer momento. Avisos sobre mudanças serão publicados no [[Canal de Atualizações do Bot.](https://github.com/HunteRiseD/Exatas-Calc/blob/main/Updates.md)).
 
 
 
